@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+}
+
+nav,
+footer {
+    padding: 1% 0;
+    background-color: grey;
+}
+
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 10;
+  }
+
+header {
+    padding: 15% 0;
+}
+
+section {
+    min-height: 200px;
+    padding: 6% 0;
+    background-color: #bbb;
+  }
